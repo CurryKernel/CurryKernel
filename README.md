@@ -1,109 +1,69 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+CurryKernel+%F0%9F%91%8B;%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%BA%8B%E6%83%85%E5%8D%B3%E5%B0%86%E5%8F%91%E7%94%9F%EF%BC%81" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  🎓 存储系统 | C++ | 分布式系统
+</p>
+
+<p align="center">
+  <a href="https://github.com/CurryKernel"><img src="https://img.shields.io/badge/GitHub-CurryKernel-3b82f6?style=flat-square&logo=github" /></a>
+  <a href="mailto:kernelcurryd@gmail.com"><img src="https://img.shields.io/badge/Email-kernelcurryd%40gmail.com-6366f1?style=flat-square&logo=gmail" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storage_Systems-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CurryKernel&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=3b82f6&icon_color=6366f1&text_color=374151&ring_color=3b82f6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CurryKernel&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=3b82f6&text_color=374151" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/CurryKernel/yierbubu-desktop">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=CurryKernel&repo=yierbubu-desktop&theme=default&hide_border=true&bg_color=ffffff&title_color=3b82f6&icon_color=6366f1&text_color=374151&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/CurryKernel/xmeta">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=CurryKernel&repo=xmeta&theme=default&hide_border=true&bg_color=ffffff&title_color=3b82f6&icon_color=6366f1&text_color=374151&description_lines_count=2" />
+  </a>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CurryKernel/CurryKernel/master/assets/profile-header-dark.svg">
-  <img alt="CurryKernel profile banner" src="https://raw.githubusercontent.com/CurryKernel/CurryKernel/master/assets/profile-header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CurryKernel/CurryKernel/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CurryKernel/CurryKernel/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/CurryKernel/CurryKernel/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## About Me
-
-I'm a passionate software developer who loves building things that matter. I write code, break things, fix them, and learn something new every day.
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="20" height="20" /> Hi, I'm **CurryKernel**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="20" height="20" /> I build things with code
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Book.png" alt="Learner" width="20" height="20" /> I'm passionate about technology and continuous learning
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Coding" width="20" height="20" /> Currently exploring open source and side projects
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mailbox%20Closed.png" alt="Contact" width="20" height="20" /> How to reach me: [currykernel@example.com](mailto:currykernel@example.com)
-
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CurryKernel&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
-<div align="center">
-
-  <a href="https://github.com/CurryKernel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CurryKernel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CurryKernel&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-  </a>
-
-  <br />
-
-  <a href="https://github.com/CurryKernel">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CurryKernel&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  </a>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Skills & Tools
-
-<div align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Graph Snake
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/CurryKernel/CurryKernel/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-*This snake animation is automatically generated by a [GitHub Action](.github/workflows/snake.yml) that runs daily.*
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Activity" width="25" height="25" /> Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section is auto-updated by a GitHub Action -->
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CurryKernel&style=for-the-badge&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/CurryKernel?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  <a href="https://github.com/CurryKernel/CurryKernel">
-    <img src="https://img.shields.io/badge/Profile%20README-Active-success?style=for-the-badge" alt="Profile README Active" />
-  </a>
-</div>
-
-<details>
-  <summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="20" height="20" /> More about me</b></summary>
-  <br />
-  
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Curry%20Rice.png" alt="Curry" width="16" height="16" /> Fun fact: I love curry — both the food and the code!
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Gaming" width="16" height="16" /> I enjoy gaming and building game-related projects
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="16" height="16" /> Always exploring new technologies and frameworks
-
-</details>
-
-<div align="center">
-  <br />
-  <sub>⭐ From <a href="https://github.com/CurryKernel">CurryKernel</a> — crafted with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Love" width="14" height="14" /> and <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Curry%20Rice.png" alt="Curry" width="14" height="14" /></sub>
-</div>
+<p align="center">
+  ⚡ <i>永远相信美好的事情即将发生！</i>
+</p>

@@ -24,7 +24,7 @@
 
 - 🎓 存储系统方向研究生，现已毕业
 - 💻 专注于 **分布式存储系统**、**LSM-Tree**、**Raft** 一致性算法
-- 🔧 使用 **C++** 和 **Go** 构建高性能系统软件
+- 🔧 使用 **C++** 和 **Java** 构建高性能系统软件
 - 🌱 持续学习分布式系统与存储引擎
 - 📍 中国 · 深圳
 
@@ -35,7 +35,7 @@
 struct Me {
   string name = "CurryKernel";
   string focus = "Storage Systems";
-  string langs[3] = {"C++", "Go", "JS"};
+  string langs[3] = {"C++", "Java", "JS"};
   string motto =
     "永远相信美好的事情即将发生！";
 };
@@ -51,7 +51,7 @@ struct Me {
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -85,13 +85,51 @@ struct Me {
 ### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/CurryKernel/yierbubu-desktop">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CurryKernel&repo=yierbubu-desktop&theme=default&hide_border=true&bg_color=ffffff&title_color=3b82f6&icon_color=6366f1&text_color=374151&description_lines_count=2" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/CurryKernel/xmeta">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CurryKernel&repo=xmeta&theme=default&hide_border=true&bg_color=ffffff&title_color=3b82f6&icon_color=6366f1&text_color=374151&description_lines_count=2" />
-  </a>
+
+<a href="https://github.com/CurryKernel/yierbubu-desktop" style="text-decoration:none">
+  <table align="center" style="border:1px solid #e5e7eb;border-radius:12px;border-collapse:separate;overflow:hidden;display:inline-table;margin:8px;width:360px">
+    <tr>
+      <td style="padding:16px 20px">
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+          <span style="font-size:18px">📁</span>
+          <b style="font-size:16px;color:#1f2937">一二布布桌面宠物</b>
+        </div>
+        <p style="font-size:13px;color:#6b7280;margin:4px 0 10px 0;line-height:1.5">
+          桌面悬浮宠物应用，可爱的一二布布在你的桌面上陪伴你
+        </p>
+        <div style="display:flex;align-items:center;gap:8px">
+          <span style="display:flex;align-items:center;gap:4px;font-size:12px;color:#6b7280">
+            <span style="width:10px;height:10px;border-radius:50%;background:#f0db4f;display:inline-block"></span> JavaScript
+          </span>
+          <span style="font-size:12px;color:#9ca3af">⭐ 开源桌面宠物</span>
+        </div>
+      </td>
+    </tr>
+  </table>
+</a>
+
+<a href="https://github.com/CurryKernel/xmeta" style="text-decoration:none">
+  <table align="center" style="border:1px solid #e5e7eb;border-radius:12px;border-collapse:separate;overflow:hidden;display:inline-table;margin:8px;width:360px">
+    <tr>
+      <td style="padding:16px 20px">
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+          <span style="font-size:18px">📁</span>
+          <b style="font-size:16px;color:#1f2937">xmeta</b>
+        </div>
+        <p style="font-size:13px;color:#6b7280;margin:4px 0 10px 0;line-height:1.5">
+          C++ 元编程与序列化框架
+        </p>
+        <div style="display:flex;align-items:center;gap:8px">
+          <span style="display:flex;align-items:center;gap:4px;font-size:12px;color:#6b7280">
+            <span style="width:10px;height:10px;border-radius:50%;background:#00599C;display:inline-block"></span> C++
+          </span>
+          <span style="font-size:12px;color:#9ca3af">📦 38 MB</span>
+        </div>
+      </td>
+    </tr>
+  </table>
+</a>
+
 </div>
 
 ---

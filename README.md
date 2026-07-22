@@ -72,12 +72,12 @@ struct Me {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CurryKernel&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=3b82f6&icon_color=6366f1&text_color=374151&ring_color=3b82f6&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CurryKernel&layout=compact&hide_border=true&bg_color=ffffff&title_color=3b82f6&text_color=374151&langs_count=6" />
+  <img width="48%" src="https://raw.githubusercontent.com/CurryKernel/CurryKernel/output/github-stats.svg" alt="GitHub Stats" />
+  <img width="48%" src="https://raw.githubusercontent.com/CurryKernel/CurryKernel/output/github-top-langs.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=CurryKernel&hide_border=true&background=ffffff&stroke=3b82f6&ring=6366f1&fire=6366f1&currStreakNum=374151&sideNums=374151&currStreakLabel=3b82f6&sideLabels=6366f1&dates=9ca3af" />
+  <img width="90%" src="https://raw.githubusercontent.com/CurryKernel/CurryKernel/output/github-streak.svg" alt="Contribution Activity" />
 </div>
 
 ---

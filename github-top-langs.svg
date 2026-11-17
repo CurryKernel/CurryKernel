@@ -8,7 +8,7 @@
   <text x="20" y="93" font-family="sans-serif" font-size="12" fill="#374151" text-anchor="start" >Python</text>
   <rect x="120" y="82" width="160" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="120" y="82" width="21" height="18" rx="9" fill="#3776AB"/>
-  <text x="300" y="93" font-family="sans-serif" font-size="12" fill="#6b7280" text-anchor="end" >13.6%</text>
+  <text x="300" y="93" font-family="sans-serif" font-size="12" fill="#6b7280" text-anchor="end" >13.5%</text>
   <text x="20" y="121" font-family="sans-serif" font-size="12" fill="#374151" text-anchor="start" >Raku</text>
   <rect x="120" y="110" width="160" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="120" y="110" width="9" height="18" rx="9" fill="#9ca3af"/>
@@ -20,7 +20,7 @@
   <text x="20" y="177" font-family="sans-serif" font-size="12" fill="#374151" text-anchor="start" >JavaScript</text>
   <rect x="120" y="166" width="160" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="120" y="166" width="7" height="18" rx="9" fill="#F7DF1E"/>
-  <text x="300" y="177" font-family="sans-serif" font-size="12" fill="#6b7280" text-anchor="end" >4.5%</text>
+  <text x="300" y="177" font-family="sans-serif" font-size="12" fill="#6b7280" text-anchor="end" >4.6%</text>
   <text x="20" y="205" font-family="sans-serif" font-size="12" fill="#374151" text-anchor="start" >TypeScript</text>
   <rect x="120" y="194" width="160" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="120" y="194" width="5" height="18" rx="9" fill="#3178C6"/>
